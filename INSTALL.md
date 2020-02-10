@@ -16,5 +16,6 @@
 - SQLite Browser: https://sqlitebrowser.org/
 - Openrefine: https://openrefine.org/
 - Tableau Public: https://public.tableau.com/en-us/s/
+- PSPP: https://www.gnu.org/software/pspp/
 - Gephi: https://gephi.org/ (Optional)
 - Insomnia: https://insomnia.rest/ (Optional)
