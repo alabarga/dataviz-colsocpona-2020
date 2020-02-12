@@ -4,6 +4,8 @@
 - Onodo: https://onodo.org/
 - Tableau Public: https://public.tableau.com/en-us/s/
 - QGIS: https://www.qgis.org/en/site/
+- Github: http://github.com (Optional)
+- Flourish: http://flourish.studio (Optional)
 - Carto: https://carto.com/signup/ (Optional)
 - Mapbox: https://account.mapbox.com/auth/signup/ (Optional)
 
