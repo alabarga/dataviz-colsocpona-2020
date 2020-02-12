@@ -6,7 +6,7 @@ Sigue las [instrucciones](INSTALL.md) para instalar el software necesario y crea
 
 ## Sesiones
 
-### Sesión 1 .- [Introducción a la visualización de datos]
+### Sesión 1 .- [Introducción a la visualización de datos](sesion1/README.md)
 ### Sesión 2 .- Visualización de datos con Tableau (I)
 ### Sesión 3 .- Visualización de datos con Tableau (II)
 ### Sesión 4 .- Visualización y análisis de información geográfica con QGIS (I)
